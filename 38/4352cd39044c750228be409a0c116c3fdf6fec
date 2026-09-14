@@ -1,0 +1,25 @@
+patient-service/src/main/java/com/pm/patient_service/controller/PatientController.java
+  h_3283e2518520ac 7-8,12,16-17,33-38
+api-requests/patient-service/get-patients.http
+  h_3283e2518520ac 1
+patient-service/src/main/java/com/pm/patient_service/dto/PatientRequestDTO.java
+  h_3283e2518520ac 1-65
+patient-service/src/main/java/com/pm/patient_service/service/PatientService.java
+  h_3283e2518520ac 7,28-32
+patient-service/src/main/java/com/pm/patient_service/mapper/PatientMapper.java
+  h_3283e2518520ac 3-5,19-28
+  h_3283e2518520ac 29
+api-requests/patient-service/create-patient.http
+  h_3283e2518520ac 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "384352cd39044c750228be409a0c116c3fdf6fec",
+  "prompts": {},
+  "humans": {
+    "h_3283e2518520ac": {
+      "author": "Mohamed Asjedh <m.asjedhcr7@gmail.com>"
+    }
+  }
+}
